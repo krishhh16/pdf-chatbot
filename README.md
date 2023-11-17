@@ -34,7 +34,5 @@ Launch the chat service locally :
 
 #### That's it! The service is now up and running locally. 🤗
 
-## Contributing 🙌
-If you want to contribute to this project, please open an issue, submit a pull request or contact me at barbot.yvann@gmail.com (:
 
 
